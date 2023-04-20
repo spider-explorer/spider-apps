@@ -1,0 +1,16 @@
+{
+  "software": {
+    "vim": {
+      "version": "9.0",
+      "ext": "7z",
+      "path": ".",
+      "url": "https://gitlab.com/spider-explorer/spider-software/-/raw/main/.software/vim/vim-9.0.7z"
+    },
+    "sed": {
+      "version": "4.8",
+      "ext": "7z",
+      "path": ".",
+      "url": "https://gitlab.com/spider-explorer/spider-software/-/raw/main/.software/sed/sed-4.8.7z"
+    }
+  }
+}
